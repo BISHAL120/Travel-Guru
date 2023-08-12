@@ -1,0 +1,12 @@
+.title {
+    position: absolute;
+    bottom: 20px;
+    padding-left: 20px;
+    color: #FFF;
+    font-family: Bebas Neue;
+    font-size: 36px;
+}
+
+.slick-prev:before {
+    display: none;
+}

@@ -1,0 +1,67 @@
+.travelsection {
+    margin-top: 200px;
+}
+
+.img-description {
+    display: flex;
+}
+
+.description {
+    width: 50%;
+    padding: 0 10%;
+}
+.booking{
+    display: flex;
+    justify-content: start;
+}
+
+.booking a {
+    text-decoration: none;
+    display: inline-flex;
+    padding: 12px 29px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 5px;
+    background: #F9A51A;
+    margin-top: 26px;
+    color: #000;
+    font-family: Montserrat;
+    font-size: 16px;
+}
+
+.description h1 {
+    text-align: start;
+    width: 378.526px;
+    height: 116px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Bebas Neue;
+    font-size: 97.684px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 100%;
+}
+
+.description h5 {
+    width: 455px;
+    height: 80px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 100%;
+    text-align: start;
+    /* 150% */
+}
+
+.img {
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
